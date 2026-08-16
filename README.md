@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0004-median-of-two-sorted-arrays) |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0002-add-two-numbers) |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -49,4 +51,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
