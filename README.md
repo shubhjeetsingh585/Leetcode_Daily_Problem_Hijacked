@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
