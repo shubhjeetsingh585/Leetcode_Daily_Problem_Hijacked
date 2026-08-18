@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0014-longest-common-prefix) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0014-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
