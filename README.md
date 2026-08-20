@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0020-valid-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
