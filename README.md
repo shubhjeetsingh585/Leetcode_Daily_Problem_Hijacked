@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0016-3sum-closest) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
