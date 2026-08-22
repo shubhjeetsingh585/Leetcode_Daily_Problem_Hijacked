@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0013-roman-to-integer) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
