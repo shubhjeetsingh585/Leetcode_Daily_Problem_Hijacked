@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0029-divide-two-integers) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0029-divide-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
