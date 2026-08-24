@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1927-sum-game](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
