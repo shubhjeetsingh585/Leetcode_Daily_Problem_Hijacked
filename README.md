@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0035-search-insert-position) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
