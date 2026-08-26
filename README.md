@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0035-search-insert-position) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
