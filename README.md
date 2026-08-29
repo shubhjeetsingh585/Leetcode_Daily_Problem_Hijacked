@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3471-find-the-largest-almost-missing-integer) |
