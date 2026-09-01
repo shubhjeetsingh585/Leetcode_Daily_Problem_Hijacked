@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0044-wildcard-matching) |
 | [1927-sum-game](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0044-wildcard-matching) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
 ## Manacher
 |  |
