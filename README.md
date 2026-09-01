@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0043-multiply-strings) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0043-multiply-strings) |
 | [1927-sum-game](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
