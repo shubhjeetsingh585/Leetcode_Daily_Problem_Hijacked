@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0049-group-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0049-group-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0049-group-anagrams) |
 | [1927-sum-game](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0049-group-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
 |  |
