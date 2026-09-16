@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0835-image-overlap) |
 ## Algorithm X
 |  |
