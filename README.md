@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1872-stone-game-viii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
