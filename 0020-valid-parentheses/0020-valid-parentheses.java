@@ -17,6 +17,6 @@ class Solution{
                 if(s.charAt(i)=='}' && st.pop()!='{') return false;
             }
         }
-         return st.isEmpty();
+        return st.isEmpty();
     }
 }
