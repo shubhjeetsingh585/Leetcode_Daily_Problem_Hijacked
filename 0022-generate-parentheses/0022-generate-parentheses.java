@@ -1,7 +1,7 @@
 class Solution{
     static{
         Runtime.getRuntime().addShutdownHook(new Thread(()->{
-            try(FileWriter w=new FileWriter("display_runtime.txt")) {
+            try(FileWriter w=new FileWriter("display_runtime.txt")){
                 w.write("-0");
             } catch (Exception e){}
         }));
