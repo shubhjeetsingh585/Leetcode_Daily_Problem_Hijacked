@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0042-trapping-rain-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
