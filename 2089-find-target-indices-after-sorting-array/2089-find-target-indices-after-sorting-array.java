@@ -1,5 +1,5 @@
-class Solution {
-    public List<Integer> targetIndices(int[] nums, int target) {
+class Solution{
+    public List<Integer> targetIndices(int[] nums, int target){
         int cnt=0,st=0;
         for(int x:nums){
             if(x==target) cnt++;
