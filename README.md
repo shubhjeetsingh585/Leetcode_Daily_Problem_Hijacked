@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
