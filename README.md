@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0059-spiral-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
