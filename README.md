@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -533,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubhjeetsingh585/Leetcode_Daily_Problem_Hijacked/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
